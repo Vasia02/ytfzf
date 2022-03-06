@@ -4,7 +4,7 @@ BINDIR=${PREFIX}/bin
 DOCDIR=${PREFIX}/share/doc/ytfzf
 MANDIR=${PREFIX}/share/man
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
-Hello terrible MIREA i
+Hello terrible MIREA i am
 YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
 
 doc:
